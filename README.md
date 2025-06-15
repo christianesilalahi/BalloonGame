@@ -35,7 +35,7 @@ Assets/
 ## 🚀 Getting Started
 
 1. Clone this repo:
-git clone https://github.com/YOUR_USERNAME/BalloonPopGame.git
+git clone https://github.com/christianesilalahi/BalloonPopGame.git
 2. Open the folder in Unity Hub
 3. Press **Play** to start the game!
 
@@ -49,7 +49,7 @@ git clone https://github.com/YOUR_USERNAME/BalloonPopGame.git
 
 ## 💡 Credits
 
-Made by [Your Name] using Unity.  
+Made by Christiane using Unity.  
 Sound effects and icons from free/open sources.
 
 ---
